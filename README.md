@@ -1,4 +1,4 @@
-## Olá, me chamo Bruno Rocha, sou Dev FullStack 🐱‍👤✔
+## Olá, me chamo Bruno Rocha - Front End (Angular) 🐱‍👤✔
 
 <div align="center">
   <a href="https://github.com/BrunzTz">
